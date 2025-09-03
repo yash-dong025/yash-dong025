@@ -2,7 +2,8 @@
 
 ## 🎓 Education
 
-**B.Tech. (Artificial Intelligence & Machine Learning )** 
+**B.Tech. (Artificial Intelligence & Machine Learning )**
+
 **CHAROTAR UNIVERSITY OF SCIENCE & TECHNOLOGY (CHARUSAT)**  
 *2023 – 2025* (Currently Pursuing)
 
