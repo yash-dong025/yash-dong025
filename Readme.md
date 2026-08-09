@@ -8,7 +8,7 @@
 ---
 
 ```
-$ whoami
+
 > Final-year B.Tech student, AI & Machine Learning @ CHARUSAT
 > Building models that don't stop at the notebook — they ship as APIs
 ```
