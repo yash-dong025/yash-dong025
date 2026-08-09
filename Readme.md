@@ -1,74 +1,101 @@
-<h1 align="center">Hi, I'm Yash Donga 👋</h1>
-<h3 align="center">AI/ML Student | Data Science | Full-Stack ML Deployment</h3>
+<div align="center">
 
-<p align="center">
-  Final-year B.Tech student specializing in AI & ML, building end-to-end machine learning
-  systems — from data analysis to deployed APIs.
-</p>
+# ⟨ YASH DONGA ⟩
+### AI/ML Engineer in the Making — Data → Models → Deployed APIs
 
----
-
-## 🎓 Education
-
-**B.Tech in Artificial Intelligence & Machine Learning** (Minors: Data Science & ML)
-**Charotar University of Science and Technology (CHARUSAT)**
-*2023 – 2027 (Currently Pursuing)*
-
-**Higher Secondary Certificate (HSC) – Science Stream**
-The Imperia Science School, Dhoraji
-*2022 – 2023*
+</div>
 
 ---
 
-## 💼 Experience
-
-**Data Science Intern — Cognifyz Technologies** *(Remote)*
-*May 2026 – Jun 2026*
-Performed multi-level EDA on 9,000+ restaurant records; engineered features and trained Random Forest, Decision Tree, and Linear Regression models — best model achieved **R² = 0.986**.
-
-**Machine Learning Intern — Exposys Data Labs** *(Remote)*
-*May 2025 – Jun 2025*
-Designed and deployed a Profit Prediction System using a Random Forest Regressor served via a Flask REST API for real-time predictions.
+```
+$ whoami
+> Final-year B.Tech student, AI & Machine Learning @ CHARUSAT
+> Building models that don't stop at the notebook — they ship as APIs
+```
 
 ---
 
-## 📌 Pinned Projects
+## ▸ ABOUT
 
-| Project | Description |
-|---------|-------------|
-| [AI-Powered Analytics & BI Dashboard Platform](https://github.com/yash-dong025) | Full-stack BI platform with multi-agent AI architecture, local LLM integration via Ollama, and Power BI–inspired dashboards. |
-| [AI-Powered Travel Planning Agent](https://github.com/yash-dong025) | Streamlit app generating real-time personalized itineraries using Gemini API, Google Maps API, and Weather API. |
-| [Car Price Prediction System](https://github.com/yash-dong025/Car-Price-Prediction-System) | ML pipeline comparing Linear Regression and Random Forest to predict used car prices; deployed as a Flask REST API. |
-| [Sports Person Image Classification](https://github.com/yash-dong025) | Face detection & classification pipeline (OpenCV, DWT features) identifying 5 sports personalities; deployed via Flask with a drag-and-drop frontend. |
-| [Sentiment Analysis Dashboard](https://github.com/yash-dong025) | Interactive Power BI dashboard visualizing customer sentiment with dynamic filters and KPI cards. |
+I'm a final-year **AI & Machine Learning** student who takes models all the way
+to production — trained, evaluated, and served through real APIs. My work spans
+predictive modeling, EDA, multi-agent AI systems, and full-stack ML deployment.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python, C++, SQL
-**ML & AI:** Scikit-learn, ANN, CNN, NLP, Multi-Agent AI, Hyperparameter Tuning
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Plotly, OpenCV
-**Web:** Flask, Streamlit, HTML, CSS
-**Data:** MySQL, EDA, Feature Engineering, Data Visualization
-**Tools:** GitHub, Jupyter, Google Colab, Kaggle, Tableau, Power BI, Ollama
+| | |
+|---|---|
+| 🎓 **Studying** | B.Tech AI & ML @ CHARUSAT *(2023 – 2027)* |
+| 📍 **Based in** | Gujarat, India |
+| 🔭 **Building now** | AI-powered BI dashboards & multi-agent systems |
+| 🌱 **Learning next** | LangChain, RAG pipelines, cloud deployment |
 
 ---
 
-## 📜 Certifications
+## ▸ EXPERIENCE
 
-- Data Structures and Algorithms in Java – NPTEL
-- Data Analysis using Python – Samatrix
-- Machine Learning with Python – IBM (Coursera)
+```
+2026 ── Data Science Intern @ Cognifyz Technologies
+        └─ EDA on 9,000+ records → Random Forest model, R² = 0.986
 
----
-
-## 📞 Contact
-
-- 📫 **Email:** [dongayash864@gmail.com](mailto:dongayash864@gmail.com)
-- 💼 **LinkedIn:** [Yash Donga](https://www.linkedin.com/in/yash-donga-1b4041285)
-- 🌐 **Portfolio:** [portfoliyo-zeta-black.vercel.app](https://portfoliyo-zeta-black.vercel.app/)
+2025 ── Machine Learning Intern @ Exposys Data Labs
+        └─ Profit Prediction System deployed via Flask REST API
+```
 
 ---
 
-<p align="center">Thanks for stopping by — feel free to explore my work or reach out! 😊</p>
+## ▸ FEATURED BUILDS
+
+**🧠 AI-Powered BI Dashboard Platform**
+Multi-agent architecture with specialized agents for data science, visualization,
+and QA. Local LLM via Ollama for natural-language analytical reasoning.
+`Python` · `Flask` · `Pandas` · `Plotly` · `Ollama`
+
+**✈️ AI Travel Planning Agent**
+Real-time, personalized itineraries powered by Gemini LLM, Google Maps, and
+Weather APIs — with PDF export.
+`Python` · `Streamlit` · `Gemini API` · `Maps API`
+
+**🚗 Car Price Prediction System**
+End-to-end ML pipeline predicting used car prices — deployed as a live Flask REST API.
+`Scikit-learn` · `Pandas` · `Flask`
+→ [github.com/yash-dong025/Car-Price-Prediction-System](https://github.com/yash-dong025/Car-Price-Prediction-System)
+
+**🏅 Sports Person Image Classifier**
+Face detection + DWT feature engineering to classify 5 sports personalities in real time.
+`OpenCV` · `Scikit-learn` · `Flask`
+
+**📊 Sentiment Analysis Dashboard**
+Interactive Power BI dashboard with drill-down KPI analytics and dynamic filters.
+`Power BI` · `Python`
+
+---
+
+## ▸ TECH ARSENAL
+
+```
+Languages     Python · C++ · SQL
+ML & AI       Scikit-learn · ANN · CNN · NLP · Multi-Agent AI
+Libraries     Pandas · NumPy · Matplotlib · Seaborn · Plotly · OpenCV
+Web           Flask · Streamlit · HTML · CSS
+Data          MySQL · EDA · Feature Engineering · Data Visualization
+Tools         GitHub · Jupyter · Colab · Kaggle · Tableau · Power BI · Ollama
+```
+
+---
+
+## ▸ CERTIFICATIONS
+
+- Machine Learning with Python — **IBM (Coursera)**
+- Data Structures and Algorithms in Java — **NPTEL**
+- Data Analysis using Python — **Samatrix**
+
+---
+
+<div align="center">
+
+## ▸ CONNECT
+
+**Email:** dongayash864@gmail.com · **LinkedIn:** [yash-donga](https://www.linkedin.com/in/yash-donga-1b4041285) · **Portfolio:** [portfoliyo-zeta-black.vercel.app](https://portfoliyo-zeta-black.vercel.app/)
+
+*"Turning raw data into deployed intelligence — one model at a time."*
+
+</div>
